@@ -122,4 +122,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2> Concluding Remarks </h2>
 
 <p>
-We have successfully completed the Active Directory Deployment and Configuration phase. By configuring Active Directory on the Controller, we established our infrastructure by creating a forest, an administrator account, and Client-01 the domain. In the next project, we will be generating users andulating various Active Directory scenarios.</p>
+We have successfully completed the Active Directory Deployment and Configuration phase. By configuring Active Directory on the Controller, we established our infrastructure by creating a forest, an administrator account, and Client-01 the domain.</p>

@@ -50,12 +50,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img width="242" alt="notif" src="https://github.com/kirkgacias/ad-deployment-configuration/assets/158519921/3cb91456-cc00-4e70-8ea2-2b54a5dc8137">
 
 
--  We will now add a forest and set root domain name to "my.com".
+-  We will now add a forest and set root domain name to "mydomain.com".
 <p>
 <img width="565" alt="my domain" src="https://github.com/kirkgacias/ad-deployment-configuration/assets/158519921/e4d06e9a-a5a4-4e8b-b464-b90ac041cbc8"> </p>
   
 - Complete the setup restart DC-01.
-- Log back in with "your"@my.com.
+- Log back in with "your"@mydomain.com.
 
 
 
